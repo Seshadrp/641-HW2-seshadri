@@ -24,7 +24,7 @@ I was primarily involved in backend development, and the technologies I worked w
 
 * Problem Solving: I encountered various challenges during the project, such as optimizing database queries for better performance, handling data synchronization, and ensuring data security. These challenges allowed me to develop problem-solving skills and learn from real-world scenarios.
 
-* Project Management: I got exposure to project management tools and methodologies, which helped in organizing tasks, tracking progress, and meeting deadlines.
+* Project Management: I got exposure to project management tools and methodologies, which helped in organize tasks, track progress, and meet deadlines.
   
  Overall, my experience as a fresher at Tata Elxsi Limited was both challenging and rewarding. It provided me with the opportunity to work on a real-world project, collaborate with experienced professionals, and develop the technical and soft skills necessary for a successful career in software development.
 
